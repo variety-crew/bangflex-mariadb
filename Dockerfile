@@ -3,7 +3,7 @@ FROM mariadb:10.6
 
 # Set environment variables for MariaDB
 ENV MYSQL_ROOT_PASSWORD=rootpassword
-ENV MYSQL_DATABASE=bangflix
+ENV MYSQL_DATABASE=bangflex
 ENV MYSQL_USER=varc
 ENV MYSQL_PASSWORD=varcpw
 
